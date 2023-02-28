@@ -1,0 +1,16 @@
+.titre {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: blue;
+    font-size: 36px;
+}
+
+.lien{
+    font-weight: bold;
+}
+
+.description {
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
+
+}
